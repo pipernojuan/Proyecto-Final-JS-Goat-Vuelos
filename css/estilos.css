@@ -59,3 +59,10 @@ table thead {
     background-color: gray;
     color: rgb(255, 255, 255);
 }
+
+.conteinergoat-button{
+    border-radius: 70%;
+}
+.botongoat{
+    color: gray;
+}
